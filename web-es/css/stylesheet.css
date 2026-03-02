@@ -1,0 +1,17 @@
+body {
+    background-color: #f3f3f3;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+#cartao .btn-primary > button {
+    background-color: darkorange;
+    min-width: 100%;
+    min-height: 40px;
+    border: darkorange;
+    border-radius: 5px;
+    font-size: 1rem;
+    color: white;
+}
